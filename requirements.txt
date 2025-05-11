@@ -1,0 +1,9 @@
+torch
+transformers
+scikit-learn
+pandas
+matplotlib
+seaborn
+sklearn-crfsuite
+streamlit
+jupyter
